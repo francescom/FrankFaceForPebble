@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "PANGOO Design",
+    "enableMultiJS": true,
+    "longName": "FrankFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/InsightDisplay_web_Light.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/InsightDisplay_web_Light.ttf",
+                "name": "FONT_PERFECT_DOS_56",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/pangoo_logo",
+                "menuIcon": true,
+                "name": "PANGOO_LOGO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FrankFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "792add34-c027-466a-a500-7dfefd7fdd89",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
