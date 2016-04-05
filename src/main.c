@@ -51,6 +51,10 @@ static void bt_handler(bool connected) {
 }
 
 static void tap_handler(AccelAxisType axis, int32_t direction) {
+	
+	// not implemented yet
+	return;
+	
   switch (axis) {
   case ACCEL_AXIS_X:
     if (direction > 0) {
